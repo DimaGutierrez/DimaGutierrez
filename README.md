@@ -1,6 +1,6 @@
 # Hola, soy @DimaGutierrez 👋
 
-![https://github.com/dimagutierrez](https://raw.githubusercontent.com/dimagutierrez/DimaGutierrez/main/wework-obp.jpg)
+![https://github.com/dimagutierrez](https://user-images.githubusercontent.com/117530171/201230610-077fe86f-e256-4f4d-bc85-e5c8f3b099d7.jpg)
 
 Soy Dima Gutierrez, actualmente corriéndome de la Html5 y CSS para adentrarme en tecnologías Java & Python.
 
