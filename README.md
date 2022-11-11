@@ -17,7 +17,7 @@ Y alguna más...
 
 ## Encuéntrame en:
 [![Vk](https://img.shields.io/badge/Vk-Dimagutierrez-0095D5?style=for-the-badge&logo=Vk&logoColor=white&labelColor=101010)](https://vk.com/dimagutierrez)
-[![Wix](https://img.shields.io/badge/wix_JobBox>>-dimagutierrez-FA7343?style=for-the-badge&logo=Wix&logoColor=white&labelColor=101010)](https://diegosurf.wixsite.com/diegorgutierrez)
+[![Wix](https://img.shields.io/badge/wix-JOBBOX-FA7343?style=for-the-badge&logo=Wix&logoColor=white&labelColor=101010)](https://diegosurf.wixsite.com/diegorgutierrez)
 
 ## Contacto y apoyo:
 [![Email](https://img.shields.io/badge/diegorgutierrez@live.com.ar-email_personal-F7DF1E?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:diegorgutierrez@live.com.ar)
