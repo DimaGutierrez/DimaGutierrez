@@ -25,5 +25,5 @@ Y alguna más...
 [![Paypal](https://img.shields.io/badge/Paypal-apoyame_con_paypal-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white&labelColor=101010)](https://www.paypal.me/DimaGutierrez)
 <!---
 DimaGutierrez/DimaGutierrez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+You can click the Preview link to take a look at your changes. #wework #java #python
 --->
