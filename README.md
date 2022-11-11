@@ -22,8 +22,6 @@ Y alguna más...
 ## Contacto y apoyo:
 [![Email](https://img.shields.io/badge/diegorgutierrez@live.com.ar-email_personal-F7DF1E?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:diegorgutierrez@live.com.ar)
 </br>
-[![BuyMeACoffee](https://img.shields.io/badge/Buy_Me_A_Coffee-apoyame_con_un_cafe-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white&labelColor=101010)](https://www.buymeacoffee.com/dimagutierrez)
-</br>
 [![Paypal](https://img.shields.io/badge/Paypal-apoyame_con_paypal-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white&labelColor=101010)](https://www.paypal.me/DimaGutierrez)
 <!---
 DimaGutierrez/DimaGutierrez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
