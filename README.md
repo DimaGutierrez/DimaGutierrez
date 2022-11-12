@@ -18,10 +18,10 @@ Y alguna más...
 ## Encuéntrame en:
 [![Vk](https://img.shields.io/badge/Vk-Dimagutierrez-0095D5?style=for-the-badge&logo=Vk&logoColor=white&labelColor=101010)](https://vk.com/dimagutierrez)
 [![Wix](https://img.shields.io/badge/wix🔥🔥🔥-DIMA>JOBBOX-FA7343?style=for-the-badge&logo=Wix&logoColor=white&labelColor=101010)](https://diegosurf.wixsite.com/diegorgutierrez)
-[![Tensoflow](https://img.shields.io/badge/Tensorflow-Dimagutierrez-0095D5?style=for-the-badge&logo=Tensorflow&logoColor=white&labelColor=101010)](https://discuss.tensorflow.org/u/dima_gutierrez/)
+[![Tensoflow](https://img.shields.io/badge/Tensorflow-Dimagutierrez-f8a506?style=for-the-badge&logo=Tensorflow&logoColor=white&labelColor=101010)](https://discuss.tensorflow.org/u/dima_gutierrez/)
 
 ## Contacto y apoyo:
-[![Email](https://img.shields.io/badge/diegorgutierrez@live.com.ar-email_personal-F7DF1E?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:diegorgutierrez@live.com.ar)
+[![Email](https://img.shields.io/badge/diegorgutierrez@live.com.ar-email_personal-FA7343?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:diegorgutierrez@live.com.ar)
 </br>
 [![Paypal](https://img.shields.io/badge/Paypal-apoyame_con_paypal-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white&labelColor=101010)](https://www.paypal.me/DimaGutierrez)
 <!---
