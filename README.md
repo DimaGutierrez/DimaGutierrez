@@ -17,7 +17,6 @@ Soy Dima Gutierrez, Surfing #Html5 #CSS / Surfeando tecnologías #Java #Python &
 Y alguna más...
 
 ## Encuéntrame en:
-[![Vk](https://img.shields.io/badge/Vk-Dimagutierrez-0095D5?style=for-the-badge&logo=Vk&logoColor=white&labelColor=101010)](https://vk.com/dimagutierrez)
 [![Wix](https://img.shields.io/badge/wix🔥🔥🔥-DIMA>>JOBBOX-FA7343?style=for-the-badge&logo=Wix&logoColor=white&labelColor=101010)](https://diegosurf.wixsite.com/diegorgutierrez)
 
 ## Contacto:
