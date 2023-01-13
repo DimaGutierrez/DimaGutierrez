@@ -3,6 +3,7 @@
 ![https://github.com/dimagutierrez](https://user-images.githubusercontent.com/117530171/201230610-077fe86f-e256-4f4d-bc85-e5c8f3b099d7.jpg)
 
 Soy Dima Gutierrez, Surfing #Html5 #CSS / Surfeando tecnologías #Java #Python & TensorFlow. Aprendiendo diariamente!
+</br>
 Tambien eh tenido experiencias en css, html5, bootstraps y java para webs responsivas y mailing.
 
 
