@@ -7,7 +7,8 @@ Soy Dima Gutierrez, Surfing #Html5 #CSS / Surfeando tecnologías #Java #Python &
 Tambien eh tenido experiencias en css, html5, bootstraps y java para webs responsivas y mailing.
 </br>
 Diseño grafico en photoshop, illustrator, InDesign, corel... corporativo, photografia, ilustraciones y mas...
-
+</br>
+Habla Spanish, English, Portuguese и Русский
 ## Tecnologías:
 [![CSS](https://img.shields.io/badge/CSS-232F3E?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=101010)]()
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)]()
