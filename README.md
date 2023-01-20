@@ -1,6 +1,6 @@
 # Hi everyone, I'm @DimaGutierrez 👋
 
-![https://github.com/dimagutierrez](https://user-images.githubusercontent.com/117530171/201230610-077fe86f-e256-4f4d-bc85-e5c8f3b099d7.jpg)
+![https://github.com/dimagutierrez](https://github.com/DimaGutierrez/htmlblogs/blob/main/gitrepositorios.jpg)
 
 Soy Dima Gutierrez, Surfing #Html5 #CSS / Surfeando tecnologías #Java #Python & TensorFlow. 
 </br>
