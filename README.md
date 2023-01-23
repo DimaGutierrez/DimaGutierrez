@@ -3,7 +3,7 @@
 ![https://github.com/dimagutierrez](https://github.com/DimaGutierrez/DimaGutierrez/blob/main/gitrepositorios.jpg)
 
 </br>
-I speak `Spanish` `English` `Portuguese` `Русский`
+
 ## Tecnologías:
 [![CSS](https://img.shields.io/badge/CSS-232F3E?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=101010)]()
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)]()
