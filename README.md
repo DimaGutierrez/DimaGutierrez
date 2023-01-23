@@ -2,9 +2,7 @@
 
 ![https://github.com/dimagutierrez](https://github.com/DimaGutierrez/DimaGutierrez/blob/main/gitrepositorios.jpg)
 
-Soy Dima Gutierrez, Surfing #Html5 #CSS / Surfeando tecnologías #Java #Python & TensorFlow. 
-</br>
-Tambien eh tenido experiencias en css, html5, bootstraps y java para webs responsivas y mailing.
+Soy Dima Gutierrez </> #Html5 #CSS3 #Java #Python & TensorFlow. 
 </br>
 Diseño grafico en photoshop, illustrator, InDesign, corel... corporativo, photografia, ilustraciones y mas...
 </br>
