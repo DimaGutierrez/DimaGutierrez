@@ -2,9 +2,6 @@
 
 ![https://github.com/dimagutierrez](https://github.com/DimaGutierrez/DimaGutierrez/blob/main/gitrepositorios.jpg)
 
-</> #Html5 #CSS3 #Java #Python & TensorFlow </>
-</br>
-Diseño grafico en photoshop, illustrator, InDesign, corel... corporativo, photografia, ilustraciones y mas...
 </br>
 I speak `Spanish` `English` `Portuguese` `Русский`
 ## Tecnologías:
