@@ -1,19 +1,8 @@
-# Hi everyone, I'm @DimaGutierrez 👋
+# Hi everyone 👋
 
 ![https://github.com/dimagutierrez](https://github.com/DimaGutierrez/DimaGutierrez/blob/main/gitrepositorios.jpg)
 
 </br>
-
-## Tecnologías:
-[![CSS](https://img.shields.io/badge/CSS-232F3E?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=101010)]()
-[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)]()
-[![Html5](https://img.shields.io/badge/Html5-FA7343?style=for-the-badge&logo=Html5&logoColor=white&labelColor=101010)]()
-[![Python](https://img.shields.io/badge/Python-0095D5?style=for-the-badge&logo=Python&logoColor=white&labelColor=101010)]()
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-f8a506?style=for-the-badge&logo=Tensorflow&logoColor=white&labelColor=101010)]()
-</br>
-Y alguna más...
-
 ## Portfolio:
 [![Wix](https://img.shields.io/badge/wix🔥🔥🔥-DIMA>>JOBBOX-FA7343?style=for-the-badge&logo=Wix&logoColor=white&labelColor=101010)](https://diegosurf.wixsite.com/diegorgutierrez)
 
