@@ -1,4 +1,4 @@
-![https://github.com/dimagutierrez](https://github.com/DimaGutierrez/DimaGutierrez/blob/main/DIMAGIT.jpg)
+![https://github.com/DimaGutierrez](https://github.com/DimaGutierrez/DimaGutierrez/blob/main/DIMAGIT.jpg)
 
 #
 <!---
