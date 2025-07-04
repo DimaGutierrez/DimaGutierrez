@@ -1,4 +1,4 @@
-![DimaGutierrez](https://github.com/DimaGutierrez/DimaGutierrez/blob/main/wew.jpg)
+![DimaGutierrez](https://github.com/DimaGutierrez/DimaGutierrez/blob/main/wework.jpg)
 
 #
 <!---
