@@ -1,4 +1,4 @@
-![DimaGutierrez]([https://github.com/DimaGutierrez/DimaGutierrez/blob/main/DIMAGIT.jpg](https://github.com/DimaGutierrez/DimaGutierrez/blob/main/wew.jpg?raw=true))
+![DimaGutierrez]([https://github.com/DimaGutierrez/DimaGutierrez/blob/main/DIMAGIT.jpg])
 
 #
 <!---
